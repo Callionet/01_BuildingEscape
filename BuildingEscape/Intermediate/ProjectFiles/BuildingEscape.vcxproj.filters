@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BuildingEscape.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{13AA7EA8-8FB2-458F-B3BB-A63E2B369622}</UniqueIdentifier>
+      <UniqueIdentifier>{7B1F2D6B-367A-468A-9ED1-D303D8321AEF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BuildingEscape.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D6ED797A-BD3D-42F7-9E20-EC5801F7F203}</UniqueIdentifier>
+      <UniqueIdentifier>{EA180749-F689-462B-A76D-4494787DDC99}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,55 +24,55 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{69617DFC-1C39-4EFA-8B58-AA8E6F07D559}</UniqueIdentifier>
+      <UniqueIdentifier>{2D2DADEC-8BD8-4199-9EBC-FB0EFF98ABF9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{DA8403C3-D148-4254-8952-C845E910E470}</UniqueIdentifier>
+      <UniqueIdentifier>{2AF28043-B2F2-4F38-B15B-7AEB41B68DED}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{A893A6AA-B327-41BE-9679-5C2042CB62AF}</UniqueIdentifier>
+      <UniqueIdentifier>{2052AA72-F9A9-41A2-ACCC-792A2A757B55}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{48B15511-A333-4F49-BB34-4FF6FA68F0F6}</UniqueIdentifier>
+      <UniqueIdentifier>{27E98DB4-6875-4ACC-B5DA-92DEED5A5463}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{4E124975-D643-4E5C-854C-800E5F3E5DBB}</UniqueIdentifier>
+      <UniqueIdentifier>{47427CFC-5BE4-493B-A004-A090BA6422A8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{698CE1EE-0441-433E-8300-CDAE81FD94AD}</UniqueIdentifier>
+      <UniqueIdentifier>{9CE15600-5DC5-43EB-8BA8-B278407C8429}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{925E89B3-0B67-47A1-AB17-A15477FA3A69}</UniqueIdentifier>
+      <UniqueIdentifier>{73268770-D36E-49F0-ACB0-680085A4436D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{EC51A922-C57F-490C-8933-C6DC2C66A266}</UniqueIdentifier>
+      <UniqueIdentifier>{DB0C634E-16AE-4F7F-8E05-A4D1E61A99BD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\BuildingEscape">
-      <UniqueIdentifier>{61BBC1F5-60E9-4652-ADCD-3203D70F9DA1}</UniqueIdentifier>
+      <UniqueIdentifier>{10E1C327-4D3C-40FB-BEA2-647CDCD4E9B8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BuildingEscape\BuildingEscape.Build.cs">
       <Filter>Source\BuildingEscape</Filter>
@@ -87,6 +87,18 @@
       <Filter>Source\BuildingEscape</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BuildingEscape\BuildingEscapeGameModeBase.h">
+      <Filter>Source\BuildingEscape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingEscape\OpenDoor.cpp">
+      <Filter>Source\BuildingEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingEscape\OpenDoor.h">
+      <Filter>Source\BuildingEscape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuildingEscape\PositionReport.cpp">
+      <Filter>Source\BuildingEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuildingEscape\PositionReport.h">
       <Filter>Source\BuildingEscape</Filter>
     </ClInclude>
   </ItemGroup>
