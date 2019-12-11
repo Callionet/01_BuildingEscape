@@ -27,13 +27,21 @@ public:
 
 	void RotateDoor();
 	void OpenDoor();
+	void CloseDoor();
+
 private:
 	UPROPERTY(EditAnywhere)
-	float OpenAngle = 90.f;
+	float OpenAngle = 180.f;
+
+	UPROPERTY(EditAnywhere)
+	float DoorCloseDelay = 1.f;
 
 	UPROPERTY(EditAnywhere)
 	ATriggerVolume* PressurePlate;
 
 	UPROPERTY(EditAnywhere)
 	AActor* OpenActor;
+
+	AActor* Owner;
+	float LastDoorOpenTime;
 };
