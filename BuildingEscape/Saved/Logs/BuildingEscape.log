@@ -827,3 +827,115 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-07.16.40:994][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
 [2019.12.11-07.16.41:235][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2019.12.11-07.20.41:608][ 20]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={092EDC20-4273-478B-6579-08815DAA643A}
+[2019.12.11-07.25.24:394][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.25.28:544][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.11-07.25.29:524][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.12.11-07.25.32:018][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.25.40:156][354]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-07.25.40:160][354]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.25.40:253][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.11-07.25.40:388][354]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Minimal_Default831078D941404554A31A41954CAC44D9.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.11-07.25.40:480][354]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Minimal_Default_BuiltData1357C866466E81428D18DAB7E3DCBD11.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.12.11-07.25.42:163][434]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3342A7DC-4AA6-20BC-0F85-D49E6BB4B342}
+[2019.12.11-07.25.48:621][769]LogSlate: Took 0.004362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-07.25.50:225][822]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.25.51:482][942]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.25.53:558][942]LogSlate: Window 'New Level' being destroyed
+[2019.12.11-07.25.53:567][942]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-07.25.53:576][942]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.25.53:585][942]LightingResults: New page: Lighting Build
+[2019.12.11-07.25.53:586][942]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.12.11-07.25.53:588][942]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.25.53:589][942]MapCheck: New page: Map Check
+[2019.12.11-07.25.53:589][942]LightingResults: New page: Lighting Build
+[2019.12.11-07.25.53:657][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.12.11-07.25.53:680][942]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.11-07.25.53:688][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-07.25.53:756][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.11-07.25.53:761][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-07.25.53:761][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2019.12.11-07.25.53:762][942]LogFileHelpers: Loading map 'Template_Default' took 0.195
+[2019.12.11-07.25.58:541][507]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.26.25:518][997]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-07.26.36:584][997]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.11-07.26.36:676][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.12.11-07.26.36:679][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-07.26.36:749][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.12.11-07.26.36:879][997]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/NewMap0E54A03E42F7E750631F1D8CD6E748F7.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap'
+[2019.12.11-07.26.36:907][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.11-07.26.36:924][997]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/NewMap_BuiltData07722B5C45A8550313A1BCA391A3CF1C.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2019.12.11-07.26.36:930][997]LogFileHelpers: Saving map 'NewMap' took 0.340
+[2019.12.11-07.26.36:931][997]Cmd: MAP LOAD FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-07.26.36:943][997]LightingResults: New page: Lighting Build
+[2019.12.11-07.26.36:944][997]LoadErrors: New page: Loading map: NewMap.umap
+[2019.12.11-07.26.36:944][997]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.26.36:946][997]MapCheck: New page: Map Check
+[2019.12.11-07.26.36:946][997]LightingResults: New page: Lighting Build
+[2019.12.11-07.26.37:020][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.11-07.26.37:035][997]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.26.37:040][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-07.26.37:109][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.11-07.26.37:132][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-07.26.37:132][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.12.11-07.26.37:133][997]LogFileHelpers: Loading map 'NewMap' took 0.202
+[2019.12.11-07.26.48:878][240]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.11-07.26.54:201][557]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/BuildingEscape.BuildingEscapeGameMode'
+[2019.12.11-07.27.04:441][433]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.11-07.27.04:449][433]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.11-07.27.05:858][597]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.27.05:865][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-07.27.05:944][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.11-07.27.06:072][597]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/NewMap170A16BA4BEF715C0CF9B9AABD2CAD20.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap'
+[2019.12.11-07.27.06:097][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.11-07.27.06:122][597]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/NewMap_BuiltData83585E3541E3A8016B7FC0B464E196DD.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2019.12.11-07.27.44:813][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.11-07.27.46:228][856]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.27.56:003][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.11-07.28.05:833][184]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2019.12.11-07.28.05:838][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.28.48:870][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-07.29.02:880][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.29.03:020][ 18]LogActorFactory: Actor Factory created SM_Chair
+[2019.12.11-07.29.03:262][ 36]LogActorFactory: Actor Factory created SM_Chair
+[2019.12.11-07.29.27:118][701]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.29.41:620][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.11-07.29.49:646][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.29.51:411][129]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.11-07.29.54:398][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.12.11-07.30.16:804][976]Cmd: DELETE
+[2019.12.11-07.30.16:804][976]Cmd: ACTOR DELETE
+[2019.12.11-07.30.16:806][976]LogEditorActor: Deleted Actor: Brush
+[2019.12.11-07.30.16:875][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.12.11-07.30.16:877][976]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2019.12.11-07.30.20:913][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.30.25:011][887]LogActorFactory: Actor Factory created SM_Rock
+[2019.12.11-07.30.25:814][967]LogActorFactory: Actor Factory created SM_Rock
+[2019.12.11-07.30.31:427][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.30.36:724][211]Cmd: TRANSACTION UNDO
+[2019.12.11-07.30.36:724][211]LogEditorTransaction: Undo Create Actors
+[2019.12.11-07.30.37:327][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.30.37:430][257]LogActorFactory: Actor Factory created SM_TableRound
+[2019.12.11-07.30.37:717][283]LogActorFactory: Actor Factory created SM_TableRound
+[2019.12.11-07.30.55:489][292]Cmd: TRANSACTION UNDO
+[2019.12.11-07.30.55:489][292]LogEditorTransaction: Undo Move Actors
+[2019.12.11-07.31.31:762][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.31.33:175][616]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.11-07.31.33:206][616]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.31.43:778][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.31.46:311][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.31.48:114][310]Cmd: TRANSACTION UNDO
+[2019.12.11-07.31.48:114][310]LogEditorTransaction: Undo Move Actors
+[2019.12.11-07.31.48:919][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.31.48:969][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.12.11-07.31.50:571][559]Cmd: TRANSACTION UNDO
+[2019.12.11-07.31.50:572][559]LogEditorTransaction: Undo Move Actors
+[2019.12.11-07.31.51:947][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.31.53:202][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.31.54:134][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.32.00:057][631]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.11-07.32.16:714][528]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-07.32.16:721][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-07.32.16:801][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.11-07.32.16:935][528]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/NewMap8AC9B2D3403080C754283B8E88FF77F0.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap.umap'
+[2019.12.11-07.32.16:964][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.11-07.32.16:988][528]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/NewMap_BuiltData0AD7F76447CBFF12C5C0409AA54A4952.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/NewMap_BuiltData.uasset'
