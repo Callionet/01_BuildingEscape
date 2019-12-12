@@ -1,9 +1,0 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
-  Parsing headers for BuildingEscapeEditor
-    Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for BuildingEscapeEditor in 6.0680244 seconds
-  Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 1 action with 32 processes...
-    [1/1] BuildingEscapeEditor.target
-  Total time in Parallel executor: 0.21 seconds
-  Total execution time: 7.23 seconds
