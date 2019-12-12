@@ -15,8 +15,6 @@ UGrabber::UGrabber()
 	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
-
-	// ...
 }
 
 
@@ -25,42 +23,40 @@ void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
 	Initialize();
+	GrabControl();
 }
-
 
 // Called every frame
 void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-	GrabControl();
 
 	if (PhysicHandler->GetGrabbedComponent()) {
-
-		FVector PlayerViewPointLocation;
-		FRotator PlayerViewPointRotation;
-		GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(
-			OUT PlayerViewPointLocation,
-			OUT PlayerViewPointRotation);
-
-		FVector  LineTraceEnd = PlayerViewPointLocation + PlayerViewPointRotation.Vector() * Reach;
-
-		PhysicHandler->SetTargetLocation(LineTraceEnd);
-		//UE_LOG(LogTemp, Warning, TEXT("Move to %s"), *LineTraceEnd.ToString());
+		PhysicHandler->SetTargetLocation(LineTraceEnd());
 	}	
 }
 
-FHitResult UGrabber::RayCasting() const {
-	//get viewpoint
+FVector UGrabber::LineTraceStart() const {
 	FVector PlayerViewPointLocation;
 	FRotator PlayerViewPointRotation;
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(
 		OUT PlayerViewPointLocation,
 		OUT PlayerViewPointRotation);
 
-	//draw red trace
-	FVector  LineTraceEnd = PlayerViewPointLocation + PlayerViewPointRotation.Vector() * Reach;
-	//DrawDebugLine(GetWorld(), PlayerViewPointLocation, LineTraceEnd, FColor(255, 0, 0), false, 0.f, 0.f, 5.f);
+	return PlayerViewPointLocation;
+}
 
+FVector UGrabber::LineTraceEnd() const {
+	FVector PlayerViewPointLocation;
+	FRotator PlayerViewPointRotation;
+	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(
+		OUT PlayerViewPointLocation,
+		OUT PlayerViewPointRotation);
+
+	return PlayerViewPointLocation + PlayerViewPointRotation.Vector() * Reach;
+}
+
+FHitResult UGrabber::RayCasting() const {
 	//setup query parameter
 	FCollisionQueryParams TraceParameter(FName(TEXT("Nothing")), false, GetOwner());
 	//raycasting
@@ -68,12 +64,10 @@ FHitResult UGrabber::RayCasting() const {
 
 	if (GetWorld()->LineTraceSingleByObjectType(
 		OUT HitItem,
-		PlayerViewPointLocation,
-		LineTraceEnd,
+		LineTraceStart(),
+		LineTraceEnd(),
 		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
 		TraceParameter)) {
-
-		//UE_LOG(LogTemp, Warning, TEXT("Hit item: %s"), *HitItem.GetActor()->GetName());
 	}
 
 	return HitItem;
@@ -86,16 +80,10 @@ void UGrabber::Initialize() {
 	if (!PhysicHandler) {
 		UE_LOG(LogTemp, Error, TEXT("%s Physics handler not found."), *GetOwner()->GetName());
 	}
-	else {
-		UE_LOG(LogTemp, Warning, TEXT("%s Physics handler found."), *GetOwner()->GetName());
-	}
 
 	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
 	if (!InputComponent) {
 		UE_LOG(LogTemp, Error, TEXT("%s InputComponent not found."), *GetOwner()->GetName());
-	}
-	else {
-		UE_LOG(LogTemp, Warning, TEXT("%s InputComponent found."), *GetOwner()->GetName());
 	}
 }
 
@@ -107,14 +95,12 @@ void UGrabber::GrabControl() {
 }
 
 void UGrabber::Release() {
-	//UE_LOG(LogTemp, Warning, TEXT("Release"));
 	if (PhysicHandler->GetGrabbedComponent()) {
 		PhysicHandler->ReleaseComponent();
 	}
 }
 
 void UGrabber::Grab() {
-	//UE_LOG(LogTemp, Warning, TEXT("Grab"));
 	FHitResult HitResult = RayCasting();
 	UPrimitiveComponent* ComponentToGrab = HitResult.GetComponent();
 
@@ -124,7 +110,5 @@ void UGrabber::Grab() {
 			NAME_None,
 			ComponentToGrab->GetOwner()->GetActorLocation(),
 			true);
-
-		//UE_LOG(LogTemp, Warning, TEXT("Hit Found"));
 	}
 }

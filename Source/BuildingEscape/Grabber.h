@@ -27,6 +27,7 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+
 private:
 	UPROPERTY(EditAnywhere)
 	float Delay = 1.f;
@@ -47,5 +48,7 @@ private:
 	void Release();
 
 	FHitResult RayCasting() const;
+	FVector LineTraceEnd() const;
+	FVector LineTraceStart() const;
 
 };
