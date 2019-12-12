@@ -74,5 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Ignore starter content
-BuildingEscape/Content/StarterContent
-BuildingEscape/Content/Materials
+Content/StarterContent
+Content/Materials
