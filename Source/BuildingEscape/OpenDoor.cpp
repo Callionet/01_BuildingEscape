@@ -37,24 +37,11 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 
 void UOpenDoor::RotateDoor() {
 	if (GetTotalMassOnPlate()>TriggerMass) {
-		OpenDoor();
-		LastDoorOpenTime = GetWorld()->GetTimeSeconds();
+		OnOpen.Broadcast();
 	}
-	
-	if (GetWorld()->GetTimeSeconds() - LastDoorOpenTime >= DoorCloseDelay) {
-		CloseDoor();
+	else {
+		OnClose.Broadcast();
 	}
-}
-
-void UOpenDoor::OpenDoor() {
-	//UE_LOG(LogTemp, Warning, TEXT("The rotaion of actor %s is %s"), *Owner->GetName(), *Rotation.ToString());
-	//Owner->SetActorRotation(FRotator(0.f, OpenAngle, 0.f));
-	OnOpenRequest.Broadcast();
-}
-
-void UOpenDoor::CloseDoor() {
-	Owner->SetActorRotation(FRotator(0.f, 90.f, 0.f));
-	//UE_LOG(LogTemp, Warning, TEXT("Close"));
 }
 
 
