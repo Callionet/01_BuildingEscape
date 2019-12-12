@@ -1,0 +1,1133 @@
+﻿Log file open, 12/12/19 16:31:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.114671
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen Threadripper 1950X 16-Core Processor , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Callioneta -epicuserid=b3c052af7bf840e4afc0508e96622237 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-03.31.26:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-03.31.26:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:484][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:489][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-03.31.26:489][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-03.31.26:490][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-03.31.26:490][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-03.31.26:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-03.31.26:499][  0]LogHAL: Display: Platform has ~ 64 GB [68595326976 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-03.31.26:499][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-03.31.26:499][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:499][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-03.31.26:499][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-03.31.26:499][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:499][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-03.31.26:499][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:499][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-03.31.26:500][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-03.31.26:501][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-03.31.26:501][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-03.31.26:501][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.12-03.31.26:501][  0]LogInit: Computer: DESKTOP-37I9JU6
+[2019.12.12-03.31.26:501][  0]LogInit: User: calli
+[2019.12.12-03.31.26:501][  0]LogInit: CPU Page size=4096, Cores=16
+[2019.12.12-03.31.26:501][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-03.31.26:501][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.12.12-03.31.26:501][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-03.31.26:501][  0]LogMemory: Process Physical Memory: 104.38 MB used, 104.38 MB peak
+[2019.12.12-03.31.26:501][  0]LogMemory: Process Virtual Memory: 103.86 MB used, 103.86 MB peak
+[2019.12.12-03.31.26:501][  0]LogMemory: Physical Memory: 20056.76 MB used,  45360.84 MB free, 65417.60 MB total
+[2019.12.12-03.31.26:501][  0]LogMemory: Virtual Memory: 4768.61 MB used,  134212960.00 MB free, 134217728.00 MB total
+[2019.12.12-03.31.26:504][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-03.31.26:536][  0]LogInit: Using OS detected language (en-US).
+[2019.12.12-03.31.26:536][  0]LogInit: Using OS detected locale (en-NZ).
+[2019.12.12-03.31.26:537][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.12-03.31.26:787][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-03.31.26:843][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-03.31.26:843][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-03.31.28:998][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-03.31.28:998][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-03.31.29:073][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.12.12-03.31.29:073][  0]LogD3D11RHI:       8079/0/32708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.12-03.31.29:076][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-03.31.29:076][  0]LogD3D11RHI:       0/0/32708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-03.31.29:078][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-03.31.29:078][  0]LogD3D11RHI:       0/0/32708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-03.31.29:078][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-03.31.29:097][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-03.31.29:097][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-03.31.29:097][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-03.31.29:098][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.12.12-03.31.29:098][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.12.12-03.31.29:098][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.12.12-03.31.29:098][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.12.12-03.31.29:099][  0]LogWindows:    4. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:099][  0]LogWindows:    5. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:099][  0]LogWindows:    6. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:099][  0]LogWindows:    7. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:099][  0]LogWindows:    8. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:099][  0]LogWindows:    9. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:100][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:100][  0]LogWindows:    11. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2019.12.12-03.31.29:100][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.12-03.31.29:100][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.12.12-03.31.29:100][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.12.12-03.31.29:100][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.12.12-03.31.29:100][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.12.12-03.31.29:160][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-03.31.29:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.12-03.31.29:550][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-03.31.29:566][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-03.31.29:578][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-03.31.29:588][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-03.31.29:611][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-03.31.29:620][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-03.31.29:631][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-03.31.29:641][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-03.31.29:649][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-03.31.29:699][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-03.31.29:700][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-03.31.29:701][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-03.31.29:744][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-03.31.29:744][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-03.31.29:760][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-03.31.29:760][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-03.31.29:768][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-03.31.29:776][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-03.31.29:784][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-03.31.29:808][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-03.31.29:839][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-03.31.29:839][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-03.31.29:839][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-03.31.29:851][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-03.31.29:925][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Intermediate/Shaders/WorkingDirectory/406456/).
+[2019.12.12-03.31.29:926][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/calli/AppData/Local/Temp/UnrealShaderWorkingDir/089C2D9B49CDFB6141E639B44BDD5026/'.
+[2019.12.12-03.31.29:929][  0]LogXGEController: Cleaning working directory: C:/Users/calli/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.12-03.31.29:929][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.12-03.31.29:929][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.12-03.31.29:929][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.12-03.31.32:398][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-03.31.32:468][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/calli/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-03.31.32:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/calli/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-03.31.32:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal/repo/01_BuildingEscape/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-03.31.32:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-03.31.32:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal/repo/01_BuildingEscape/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-03.31.32:468][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-03.31.32:493][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-03.31.32:493][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-03.31.32:493][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.12-03.31.32:495][  0]LogDerivedDataCache: Using Local data cache path C:/Users/calli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-03.31.32:495][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-03.31.32:495][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-03.31.32:517][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-03.31.32:520][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-03.31.32:521][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-03.31.32:601][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2019.12.12-03.31.32:907][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-03.31.33:147][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-03.31.33:147][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-03.31.33:147][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-03.31.33:147][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-03.31.33:147][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-03.31.33:185][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1610626118)
+[2019.12.12-03.31.34:140][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.067717 seconds
+[2019.12.12-03.31.34:148][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-03.31.34:148][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-03.31.34:148][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-03.31.36:497][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-03.31.36:500][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-03.31.36:580][  0]SourceControl: Source control is disabled
+[2019.12.12-03.31.36:580][  0]SourceControl: Source control is disabled
+[2019.12.12-03.31.36:582][  0]SourceControl: Source control is disabled
+[2019.12.12-03.31.36:584][  0]SourceControl: Source control is disabled
+[2019.12.12-03.31.36:702][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-03.31.36:899][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-03.31.36:906][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-03.31.36:906][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-03.31.37:009][  0]LogEngine: Initializing Engine...
+[2019.12.12-03.31.37:010][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-03.31.37:011][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.12-03.31.37:419][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-03.31.37:441][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-03.31.37:475][  0]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.31.37:492][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-03.31.37:492][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-03.31.37:561][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/calli/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-03.31.37:574][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-03.31.37:603][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-03.31.37:603][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FB6D6C8F-4561-2B86-EEA0-849BB79F4E8B}
+[2019.12.12-03.31.37:603][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.12-03.31.37:604][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.12-03.31.37:690][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-03.31.37:729][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-03.31.37:825][  0]LocalizationService: Localization service is disabled
+[2019.12.12-03.31.38:302][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/' took 0.01s
+[2019.12.12-03.31.38:302][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-03.31.38:302][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-03.31.38:634][  0]SourceControl: Source control is disabled
+[2019.12.12-03.31.38:744][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-03.31.55:508][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.12.12-03.31.55:508][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.12-03.31.55:525][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.12-03.31.56:931][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.12.12-03.31.56:932][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.12-03.31.56:968][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.12-03.31.56:971][  0]Cmd: MAP LOAD FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Building_Escape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-03.31.56:971][  0]LightingResults: New page: Lighting Build
+[2019.12.12-03.31.56:975][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.31.56:975][  0]MapCheck: New page: Map Check
+[2019.12.12-03.31.56:975][  0]LightingResults: New page: Lighting Build
+[2019.12.12-03.31.57:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.12-03.31.57:519][  0]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.31.57:531][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-03.31.57:611][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.12-03.31.57:612][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-03.31.57:612][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2019.12.12-03.31.57:612][  0]LogFileHelpers: Loading map 'Building_Escape' took 0.643
+[2019.12.12-03.31.57:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.31.57:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.31.57:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.31.57:738][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.31.57:752][  0]LogCollectionManager: Loaded 0 collections in 0.002617 seconds
+[2019.12.12-03.31.57:763][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Collections/' took 0.00s
+[2019.12.12-03.31.57:763][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Developers/calli/Collections/' took 0.00s
+[2019.12.12-03.31.57:763][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Collections/' took 0.00s
+[2019.12.12-03.31.57:763][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2019.12.12-03.31.57:775][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2867 classes and 682 folders.
+[2019.12.12-03.31.57:784][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.12-03.31.58:048][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.12-03.31.58:057][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.12.12-03.31.58:079][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-03.31.58:089][  0]LogSlate: Took 0.005487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-03.31.58:175][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-03.31.58:287][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.12-03.31.58:287][  0]LogLoad: (Engine Initialization) Total time: 33.20 seconds
+[2019.12.12-03.31.58:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-03.31.58:349][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.12-03.31.58:892][ 10]LogAssetRegistry: Asset discovery search completed in 26.2924 seconds
+[2019.12.12-03.31.58:895][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.12.12-03.31.58:895][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.12.12-03.31.59:331][ 57]LogSlate: Took 0.006567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-03.32.02:106][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.32.02:222][384]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultPawn_BP.DefaultPawn_BP
+[2019.12.12-03.32.02:476][384]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.12.12-03.32.03:375][384]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.12-03.32.05:801][588]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2019.12.12-03.32.05:807][588]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.32.06:731][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.32.08:096][838]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-03.32.08:106][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Building_Escape" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Building_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-03.32.08:193][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.12-03.32.08:390][838]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Building_Escape17197647452F553171D75FBBFD8E847B.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Building_Escape.umap'
+[2019.12.12-03.32.08:435][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Building_Escape_BuiltData" FILE="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Building_Escape_BuiltData.uasset" SILENT=true
+[2019.12.12-03.32.08:491][838]LogSavePackage: Moving 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Saved/Building_Escape_BuiltData9132FFC34B342D90E2A08E960973CFC7.tmp' to 'D:/Unreal/repo/01_BuildingEscape/BuildingEscape/Content/Building_Escape_BuiltData.uasset'
+[2019.12.12-03.32.12:604][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.32.12:695][943]Candidate modules for hot reload:
+[2019.12.12-03.32.12:695][943]  BuildingEscape
+[2019.12.12-03.32.12:695][943]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,667 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.32.12:698][943]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.32.23:743][189]CompilerResultsLog: New page: Compilation - 13/12/2019 5:32:23 am
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.9306821 seconds
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Building 5 actions with 32 processes...
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:   [1/5] Grabber.cpp
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-0667.lib
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0667.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0667.exp
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-0667.dll
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0667.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0667.suppressed.exp
+[2019.12.12-03.32.23:744][189]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Total time in Parallel executor: 2.73 seconds
+[2019.12.12-03.32.23:744][189]CompilerResultsLog: Total execution time: 10.94 seconds
+[2019.12.12-03.32.23:744][189]LogMainFrame: MainFrame: Module compiling took 11.054 seconds
+[2019.12.12-03.32.23:821][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.12.12-03.32.23:845][189]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.32.23:845][189]Display: HotReload took 11.2s.
+[2019.12.12-03.32.24:594][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.32.24:670][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.32.24:688][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.32.24:688][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.32.24:688][249]PIE: New page: PIE session: Building_Escape (13/12/2019 5:32:24 am)
+[2019.12.12-03.32.24:689][249]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-03.32.24:690][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.32.24:696][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005467s)
+[2019.12.12-03.32.24:697][249]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.32.24:697][249]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2019.12.12-03.32.24:698][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.006943s)
+[2019.12.12-03.32.24:799][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.12-03.32.24:822][249]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.32.24:834][249]LogInit: FAudioDevice initialized.
+[2019.12.12-03.32.24:848][249]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.32.24:850][249]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.32.24
+[2019.12.12-03.32.24:850][249]LogWorld: Bringing up level for play took: 0.001097
+[2019.12.12-03.32.24:850][249]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.12-03.32.24:880][249]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.12-03.32.24:881][249]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.32.24:881][249]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.32.24:881][249]PIE: Play in editor start time for /Game/UEDPIE_0_Building_Escape 1.133
+[2019.12.12-03.32.24:886][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.32.25:669][301]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.32.26:677][421]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=13.304817 Y=127.405296 R=0.000000
+[2019.12.12-03.32.27:677][541]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.005310 Y=67.927612 R=0.000000
+[2019.12.12-03.32.28:689][646]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.29:223][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.32.29:708][743]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.12-03.32.29:744][744]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.30:748][827]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.31:554][892]LogEditCondition: Error: EditCondition parsing failed: Field name "bSoftConstraint" was not found in class "PhysicsHandleComponent".
+[2019.12.12-03.32.31:816][920]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.32:817][ 21]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.33:825][125]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.34:828][240]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.35:834][358]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.36:835][475]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.37:841][591]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.39:587][796]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.40:592][914]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.41:594][ 31]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.42:596][150]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.43:600][268]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.44:852][300]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.45:870][382]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.46:879][477]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.47:003][488]LogSlate: Took 0.008803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.12-03.32.47:896][583]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.48:899][701]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.49:906][820]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.50:916][939]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.51:922][ 57]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.52:925][175]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.53:925][294]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.54:932][413]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.55:936][532]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.56:937][647]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.57:943][766]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.58:957][862]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.32.59:964][975]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.33.00:965][ 79]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=342.705261 Y=66.352791 R=0.000000
+[2019.12.12-03.33.01:831][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.33.01:832][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.33.01:833][177]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.33.01:834][177]LogWorld: UWorld::CleanupWorld for Building_Escape, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.33.01:844][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.33.01:844][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.33.01:899][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.33.01:981][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.12-03.33.02:006][178]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.12-03.33.02:380][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.12.12-03.33.12:333][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.33.12:409][388]Candidate modules for hot reload:
+[2019.12.12-03.33.12:409][388]  BuildingEscape
+[2019.12.12-03.33.12:409][388]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5833 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.33.12:413][388]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.33.21:592][384]CompilerResultsLog: New page: Compilation - 13/12/2019 5:33:21 am
+[2019.12.12-03.33.21:592][384]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.33.21:592][384]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.33.21:592][384]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.33.21:593][384]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.219907 seconds
+[2019.12.12-03.33.21:593][384]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.33.21:593][384]CompilerResultsLog: Building 6 actions with 32 processes...
+[2019.12.12-03.33.21:593][384]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2019.12.12-03.33.21:593][384]CompilerResultsLog:   [2/6] Grabber.cpp
+[2019.12.12-03.33.21:594][384]CompilerResultsLog:   [3/6] Grabber.gen.cpp
+[2019.12.12-03.33.21:594][384]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-5833.lib
+[2019.12.12-03.33.21:594][384]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5833.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5833.exp
+[2019.12.12-03.33.21:594][384]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-5833.dll
+[2019.12.12-03.33.21:594][384]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5833.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5833.suppressed.exp
+[2019.12.12-03.33.21:595][384]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2019.12.12-03.33.21:595][384]CompilerResultsLog: Total time in Parallel executor: 1.75 seconds
+[2019.12.12-03.33.21:595][384]CompilerResultsLog: Total execution time: 9.08 seconds
+[2019.12.12-03.33.21:595][384]LogMainFrame: MainFrame: Module compiling took 9.190 seconds
+[2019.12.12-03.33.21:640][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.12-03.33.21:659][384]LogClass: Could not find existing class Grabber in package /Script/BuildingEscape for HotReload, assuming new class
+[2019.12.12-03.33.21:672][384]LogHotReload: Re-instancing Grabber after hot-reload.
+[2019.12.12-03.33.21:841][384]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.12.12-03.33.21:848][384]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-03.33.21:947][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.12-03.33.21:969][384]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.33.21:969][384]Display: HotReload took  9.6s.
+[2019.12.12-03.33.23:683][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.33.23:733][552]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.33.23:752][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.33.23:752][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.33.23:753][552]PIE: New page: PIE session: Building_Escape (13/12/2019 5:33:23 am)
+[2019.12.12-03.33.23:753][552]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.33.23:759][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005487s)
+[2019.12.12-03.33.23:760][552]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.33.23:760][552]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2019.12.12-03.33.23:760][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.007369s)
+[2019.12.12-03.33.23:856][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.12-03.33.23:878][552]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.33.23:889][552]LogInit: FAudioDevice initialized.
+[2019.12.12-03.33.23:897][552]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.33.23:898][552]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.33.23
+[2019.12.12-03.33.23:899][552]LogWorld: Bringing up level for play took: 0.001103
+[2019.12.12-03.33.23:899][552]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.12-03.33.23:901][552]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.33.23:902][552]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.33.23:902][552]PIE: Play in editor start time for /Game/UEDPIE_0_Building_Escape 0.153
+[2019.12.12-03.33.23:908][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.33.24:726][645]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.33.25:731][765]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.33.26:731][885]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.33.27:736][  5]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.33.28:744][124]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.33.29:742][240]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.33.29:943][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.33.29:944][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.33.29:944][264]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.33.29:944][264]LogWorld: UWorld::CleanupWorld for Building_Escape, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.33.29:952][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.33.29:952][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.33.30:008][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.33.30:028][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.12-03.33.30:043][265]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.12-03.34.18:310][550]Candidate modules for hot reload:
+[2019.12.12-03.34.18:310][550]  BuildingEscape
+[2019.12.12-03.34.18:310][550]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,129 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.34.18:313][550]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.34.27:985][379]CompilerResultsLog: New page: Compilation - 13/12/2019 5:34:27 am
+[2019.12.12-03.34.27:985][379]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.34.27:985][379]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.34.27:985][379]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.34.27:986][379]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.505007 seconds
+[2019.12.12-03.34.27:986][379]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.34.27:986][379]CompilerResultsLog: Building 4 actions with 32 processes...
+[2019.12.12-03.34.27:986][379]CompilerResultsLog:   [1/4] Grabber.cpp
+[2019.12.12-03.34.27:986][379]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-0129.lib
+[2019.12.12-03.34.27:986][379]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0129.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0129.exp
+[2019.12.12-03.34.27:987][379]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-0129.dll
+[2019.12.12-03.34.27:987][379]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0129.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0129.suppressed.exp
+[2019.12.12-03.34.27:987][379]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2019.12.12-03.34.27:987][379]CompilerResultsLog: Total time in Parallel executor: 1.93 seconds
+[2019.12.12-03.34.27:987][379]CompilerResultsLog: Total execution time: 9.57 seconds
+[2019.12.12-03.34.27:987][379]LogMainFrame: MainFrame: Module compiling took 9.682 seconds
+[2019.12.12-03.34.28:039][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.12-03.34.28:060][379]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.34.28:060][379]Display: HotReload took  9.8s.
+[2019.12.12-03.34.29:376][499]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.34.29:394][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.34.29:395][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.34.29:395][499]PIE: New page: PIE session: Building_Escape (13/12/2019 5:34:29 am)
+[2019.12.12-03.34.29:395][499]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.34.29:401][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005015s)
+[2019.12.12-03.34.29:402][499]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.34.29:402][499]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2019.12.12-03.34.29:402][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.006740s)
+[2019.12.12-03.34.29:492][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.12-03.34.29:516][499]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.34.29:531][499]LogInit: FAudioDevice initialized.
+[2019.12.12-03.34.29:540][499]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.34.29:542][499]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.34.29
+[2019.12.12-03.34.29:542][499]LogWorld: Bringing up level for play took: 0.001114
+[2019.12.12-03.34.29:542][499]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.12-03.34.29:545][499]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.34.29:545][499]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.34.29:545][499]PIE: Play in editor start time for /Game/UEDPIE_0_Building_Escape -0.203
+[2019.12.12-03.34.29:546][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.34.30:375][594]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.31:380][713]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.32:380][833]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.33:381][953]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.34:386][ 73]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.35:388][193]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.36:388][313]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.34.37:388][433]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.150940 Y=58.523743 R=0.000000
+[2019.12.12-03.34.38:388][553]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.39:396][674]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.40:610][700]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.41:622][703]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.42:629][706]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.43:632][788]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.44:640][909]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.45:752][963]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.46:769][966]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.47:777][969]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.48:795][972]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.49:801][975]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.50:795][ 56]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.51:803][177]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.53:057][248]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.54:072][251]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.55:082][254]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.56:093][257]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.57:110][260]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.58:118][263]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.34.59:131][266]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.00:145][269]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.01:162][272]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.02:166][275]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.03:161][356]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.04:169][474]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.05:171][594]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=352.897430 Y=56.576675 R=0.000000
+[2019.12.12-03.35.05:659][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.35.05:734][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.35.05:735][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.35.05:736][661]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.35.05:736][661]LogWorld: UWorld::CleanupWorld for Building_Escape, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.35.05:743][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.35.05:743][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.35.05:793][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.35.05:797][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.12-03.35.05:838][665]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.12-03.35.06:422][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.12.12-03.35.35:685][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.35.35:772][705]Candidate modules for hot reload:
+[2019.12.12-03.35.35:772][705]  BuildingEscape
+[2019.12.12-03.35.35:772][705]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5034 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.35.35:776][705]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.35.45:646][711]CompilerResultsLog: New page: Compilation - 13/12/2019 5:35:45 am
+[2019.12.12-03.35.45:647][711]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.35.45:647][711]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.35.45:647][711]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.35.45:647][711]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.846518 seconds
+[2019.12.12-03.35.45:648][711]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.35.45:648][711]CompilerResultsLog: Building 4 actions with 32 processes...
+[2019.12.12-03.35.45:648][711]CompilerResultsLog:   [1/4] Grabber.cpp
+[2019.12.12-03.35.45:648][711]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-5034.lib
+[2019.12.12-03.35.45:648][711]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5034.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5034.exp
+[2019.12.12-03.35.45:649][711]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-5034.dll
+[2019.12.12-03.35.45:649][711]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5034.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5034.suppressed.exp
+[2019.12.12-03.35.45:649][711]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2019.12.12-03.35.45:649][711]CompilerResultsLog: Total time in Parallel executor: 1.76 seconds
+[2019.12.12-03.35.45:649][711]CompilerResultsLog: Total execution time: 9.78 seconds
+[2019.12.12-03.35.45:649][711]LogMainFrame: MainFrame: Module compiling took 9.882 seconds
+[2019.12.12-03.35.45:701][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.12-03.35.45:737][711]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.12.12-03.35.45:742][711]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-03.35.45:830][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.12-03.35.45:850][711]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.35.45:850][711]Display: HotReload took 10.1s.
+[2019.12.12-03.35.46:955][801]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.35.46:973][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.35.46:973][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.35.46:974][801]PIE: New page: PIE session: Building_Escape (13/12/2019 5:35:46 am)
+[2019.12.12-03.35.46:974][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.35.46:978][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005322s)
+[2019.12.12-03.35.46:980][801]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.35.46:980][801]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2019.12.12-03.35.46:980][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.007273s)
+[2019.12.12-03.35.47:078][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.12-03.35.47:101][801]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.35.47:112][801]LogInit: FAudioDevice initialized.
+[2019.12.12-03.35.47:121][801]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.35.47:122][801]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.35.47
+[2019.12.12-03.35.47:123][801]LogWorld: Bringing up level for play took: 0.001091
+[2019.12.12-03.35.47:123][801]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.12-03.35.47:125][801]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.35.47:126][801]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.35.47:126][801]LogTemp: Warning: DefaultPawn_BP_C_0 Physics handler found.
+[2019.12.12-03.35.47:126][801]LogTemp: Warning: DefaultPawn_BP_C_0 PawnMovementComponent found.
+[2019.12.12-03.35.47:126][801]PIE: Play in editor start time for /Game/UEDPIE_0_Building_Escape -0.622
+[2019.12.12-03.35.47:131][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.35.47:949][894]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.35.48:950][ 14]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.35.49:951][134]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.35.50:951][254]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=8.114175 Y=100.630707 R=0.000000
+[2019.12.12-03.35.51:707][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.35.51:708][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.35.51:708][342]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.35.51:708][342]LogWorld: UWorld::CleanupWorld for Building_Escape, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.35.51:718][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.35.51:718][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.35.51:799][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.35.51:829][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.12-03.35.51:852][343]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.12-03.36.16:886][ 27]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2019.12.12-03.36.16:887][ 27]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2019.12.12-03.38.20:056][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.38.20:142][893]Candidate modules for hot reload:
+[2019.12.12-03.38.20:142][893]  BuildingEscape
+[2019.12.12-03.38.20:142][893]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8854 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.38.20:145][893]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.38.29:340][551]CompilerResultsLog: New page: Compilation - 13/12/2019 5:38:29 am
+[2019.12.12-03.38.29:341][551]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.38.29:341][551]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.38.29:341][551]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.38.29:341][551]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.1695191 seconds
+[2019.12.12-03.38.29:342][551]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.38.29:342][551]CompilerResultsLog: Building 5 actions with 32 processes...
+[2019.12.12-03.38.29:342][551]CompilerResultsLog:   [1/5] Grabber.cpp
+[2019.12.12-03.38.29:342][551]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2019.12.12-03.38.29:342][551]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-8854.lib
+[2019.12.12-03.38.29:342][551]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8854.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8854.exp
+[2019.12.12-03.38.29:343][551]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-8854.dll
+[2019.12.12-03.38.29:343][551]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8854.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8854.suppressed.exp
+[2019.12.12-03.38.29:343][551]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2019.12.12-03.38.29:343][551]CompilerResultsLog: Total time in Parallel executor: 1.83 seconds
+[2019.12.12-03.38.29:343][551]CompilerResultsLog: ERROR: Unhandled exception: System.IO.IOException: The requested operation cannot be performed on a file with a user-mapped section open.
+[2019.12.12-03.38.29:343][551]CompilerResultsLog: 
+[2019.12.12-03.38.29:343][551]CompilerResultsLog:           at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+[2019.12.12-03.38.29:344][551]CompilerResultsLog:           at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+[2019.12.12-03.38.29:344][551]CompilerResultsLog:           at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+[2019.12.12-03.38.29:344][551]CompilerResultsLog:           at UnrealBuildTool.SourceFileMetadataCache.Write() in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\SourceFileMetadataCache.cs:line 346
+[2019.12.12-03.38.29:344][551]CompilerResultsLog:           at UnrealBuildTool.SourceFileMetadataCache.<>c.<SaveAll>b__20_0(SourceFileMetadataCache Cache) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\SourceFileMetadataCache.cs:line 289
+[2019.12.12-03.38.29:345][551]CompilerResultsLog:           at System.Threading.Tasks.Parallel.<>c__DisplayClass42_0`2.<PartitionerForEachWorker>b__1()
+[2019.12.12-03.38.29:345][551]CompilerResultsLog:           at System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+[2019.12.12-03.38.29:345][551]CompilerResultsLog:           at System.Threading.Tasks.Task.<>c__DisplayClass176_0.<ExecuteSelfReplicating>b__0(Object <p0>)
+[2019.12.12-03.38.29:345][551]LogMainFrame: MainFrame: Module compiling took 9.208 seconds
+[2019.12.12-03.38.29:345][551]Warning: HotReload failed, recompile failed
+[2019.12.12-03.38.47:410][663]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-03.38.47:415][663]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-03.40.44:165][228]Candidate modules for hot reload:
+[2019.12.12-03.40.44:165][228]  BuildingEscape
+[2019.12.12-03.40.44:165][228]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,924 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.40.44:169][228]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.40.54:281][421]CompilerResultsLog: New page: Compilation - 13/12/2019 5:40:54 am
+[2019.12.12-03.40.54:281][421]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.40.54:282][421]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.40.54:282][421]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.40.54:282][421]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.9347275 seconds
+[2019.12.12-03.40.54:282][421]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.40.54:283][421]CompilerResultsLog: Building 5 actions with 32 processes...
+[2019.12.12-03.40.54:283][421]CompilerResultsLog:   [1/5] Grabber.cpp
+[2019.12.12-03.40.54:283][421]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2019.12.12-03.40.54:283][421]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-0924.lib
+[2019.12.12-03.40.54:283][421]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0924.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0924.exp
+[2019.12.12-03.40.54:283][421]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-0924.dll
+[2019.12.12-03.40.54:283][421]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0924.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0924.suppressed.exp
+[2019.12.12-03.40.54:284][421]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2019.12.12-03.40.54:284][421]CompilerResultsLog: Total time in Parallel executor: 1.90 seconds
+[2019.12.12-03.40.54:284][421]CompilerResultsLog: Total execution time: 10.02 seconds
+[2019.12.12-03.40.54:284][421]LogMainFrame: MainFrame: Module compiling took 10.123 seconds
+[2019.12.12-03.40.54:340][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.12-03.40.54:361][421]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.40.54:361][421]Display: HotReload took 10.2s.
+[2019.12.12-03.40.56:572][647]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.40.56:590][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.40.56:591][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.40.56:591][647]PIE: New page: PIE session: Building_Escape (13/12/2019 5:40:56 am)
+[2019.12.12-03.40.56:591][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.40.56:596][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005593s)
+[2019.12.12-03.40.56:597][647]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.40.56:598][647]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2019.12.12-03.40.56:598][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.007611s)
+[2019.12.12-03.40.56:708][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.12-03.40.56:730][647]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.40.56:746][647]LogInit: FAudioDevice initialized.
+[2019.12.12-03.40.56:753][647]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.40.56:755][647]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.40.56
+[2019.12.12-03.40.56:755][647]LogWorld: Bringing up level for play took: 0.001113
+[2019.12.12-03.40.56:756][647]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.12-03.40.56:758][647]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.40.56:758][647]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.40.56:758][647]LogTemp: Warning: DefaultPawn_BP_C_0 Physics handler found.
+[2019.12.12-03.40.56:758][647]LogTemp: Warning: DefaultPawn_BP_C_0 PawnMovementComponent found.
+[2019.12.12-03.40.56:758][647]PIE: Play in editor start time for /Game/UEDPIE_0_Building_Escape 1.01
+[2019.12.12-03.40.56:759][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.40.57:567][739]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.40.58:568][859]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.40.59:569][979]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=359.825012 Y=3.990146 R=0.000000
+[2019.12.12-03.41.00:571][ 98]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=356.812286 Y=25.213076 R=0.000000
+[2019.12.12-03.41.01:576][217]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=356.812286 Y=25.038094 R=0.000000
+[2019.12.12-03.41.02:574][337]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=356.812286 Y=25.038094 R=0.000000
+[2019.12.12-03.41.02:924][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.41.02:924][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.41.02:924][379]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.41.02:925][379]LogWorld: UWorld::CleanupWorld for Building_Escape, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.41.02:937][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.41.02:937][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.41.02:987][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.41.03:016][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.12-03.41.03:040][380]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.12-03.41.15:987][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.41.16:073][633]Candidate modules for hot reload:
+[2019.12.12-03.41.16:073][633]  BuildingEscape
+[2019.12.12-03.41.16:073][633]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2725 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.41.16:077][633]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.41.25:363][222]CompilerResultsLog: New page: Compilation - 13/12/2019 5:41:25 am
+[2019.12.12-03.41.25:364][222]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.41.25:364][222]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.41.25:364][222]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.41.25:365][222]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 6.1123415 seconds
+[2019.12.12-03.41.25:365][222]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.41.25:366][222]CompilerResultsLog: Building 4 actions with 32 processes...
+[2019.12.12-03.41.25:366][222]CompilerResultsLog:   [1/4] Grabber.cpp
+[2019.12.12-03.41.25:366][222]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-2725.lib
+[2019.12.12-03.41.25:366][222]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2725.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2725.exp
+[2019.12.12-03.41.25:366][222]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-2725.dll
+[2019.12.12-03.41.25:366][222]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2725.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2725.suppressed.exp
+[2019.12.12-03.41.25:367][222]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2019.12.12-03.41.25:367][222]CompilerResultsLog: Total time in Parallel executor: 1.93 seconds
+[2019.12.12-03.41.25:367][222]CompilerResultsLog: Total execution time: 9.11 seconds
+[2019.12.12-03.41.25:367][222]LogMainFrame: MainFrame: Module compiling took 9.299 seconds
+[2019.12.12-03.41.25:419][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.12-03.41.25:453][222]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.12.12-03.41.25:458][222]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-03.41.25:547][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.12-03.41.25:565][222]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.41.25:565][222]Display: HotReload took  9.5s.
+[2019.12.12-03.41.28:485][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.41.28:503][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.41.28:503][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.41.28:504][435]PIE: New page: PIE session: Building_Escape (13/12/2019 5:41:28 am)
+[2019.12.12-03.41.28:504][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.41.28:509][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005152s)
+[2019.12.12-03.41.28:510][435]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.41.28:511][435]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2019.12.12-03.41.28:511][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.007286s)
+[2019.12.12-03.41.28:615][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.12-03.41.28:646][435]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.41.28:656][435]LogInit: FAudioDevice initialized.
+[2019.12.12-03.41.28:669][435]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.41.28:671][435]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.41.28
+[2019.12.12-03.41.28:671][435]LogWorld: Bringing up level for play took: 0.001033
+[2019.12.12-03.41.28:671][435]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.12-03.41.28:673][435]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.41.28:674][435]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.41.28:674][435]LogTemp: Warning: DefaultPawn_BP_C_0 Physics handler found.
+[2019.12.12-03.41.28:674][435]LogTemp: Warning: DefaultPawn_BP_C_0 InputComponent found.
+[2019.12.12-03.41.28:674][435]PIE: Play in editor start time for /Game/UEDPIE_0_Building_Escape 0.926
+[2019.12.12-03.41.28:674][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.41.29:481][528]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=0.000000 Y=0.000000 R=0.000000
+[2019.12.12-03.41.30:482][648]LogTemp: Warning: Location: X=-120.000 Y=-340.000 Z=112.001, Rotation: P=357.118103 Y=94.225945 R=0.000000
+[2019.12.12-03.41.31:199][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.41.31:199][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.41.31:200][734]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.41.31:200][734]LogWorld: UWorld::CleanupWorld for Building_Escape, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.41.31:215][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.41.31:216][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.41.31:275][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.41.31:303][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.12-03.41.31:331][735]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.12-03.41.59:675][905]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={FB6D6C8F-4561-2B86-EEA0-849BB79F4E8B}
+[2019.12.12-03.45.47:228][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-03.45.48:408][923]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-03.45.49:569][923]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.12-03.48.16:262][254]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.12-03.48.16:267][254]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.12-03.52.33:498][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.52.33:590][664]Candidate modules for hot reload:
+[2019.12.12-03.52.33:590][664]  BuildingEscape
+[2019.12.12-03.52.33:590][664]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1040 Win64 Development -TargetType=Editor -Project="D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Unreal/repo/01_BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.12-03.52.33:598][664]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.53.00:314][433]CompilerResultsLog: New page: Compilation - 13/12/2019 5:53:00 am
+[2019.12.12-03.53.00:314][433]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\repo\01_BuildingEscape).
+[2019.12.12-03.53.00:314][433]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.12-03.53.00:315][433]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.53.00:315][433]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 21.3509085 seconds
+[2019.12.12-03.53.00:315][433]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.53.00:316][433]CompilerResultsLog: Building 8 actions with 32 processes...
+[2019.12.12-03.53.00:316][433]CompilerResultsLog:   [1/8] BuildingEscapeGameModeBase.cpp
+[2019.12.12-03.53.00:316][433]CompilerResultsLog:   [2/8] PositionReport.cpp
+[2019.12.12-03.53.00:316][433]CompilerResultsLog:   [3/8] Grabber.gen.cpp
+[2019.12.12-03.53.00:316][433]CompilerResultsLog:   [4/8] BuildingEscapeGameModeBase.gen.cpp
+[2019.12.12-03.53.00:317][433]CompilerResultsLog:   [5/8] Grabber.cpp
+[2019.12.12-03.53.00:317][433]CompilerResultsLog:   [6/8] UE4Editor-BuildingEscape-1040.lib
+[2019.12.12-03.53.00:317][433]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1040.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1040.exp
+[2019.12.12-03.53.00:318][433]CompilerResultsLog:   [7/8] UE4Editor-BuildingEscape-1040.dll
+[2019.12.12-03.53.00:318][433]CompilerResultsLog:      Creating library D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1040.suppressed.lib and object D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1040.suppressed.exp
+[2019.12.12-03.53.00:318][433]CompilerResultsLog:   [8/8] BuildingEscapeEditor.target
+[2019.12.12-03.53.00:319][433]CompilerResultsLog: Total time in Parallel executor: 2.44 seconds
+[2019.12.12-03.53.00:319][433]CompilerResultsLog: Total execution time: 26.32 seconds
+[2019.12.12-03.53.00:319][433]LogMainFrame: MainFrame: Module compiling took 26.733 seconds
+[2019.12.12-03.53.00:426][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.12.12-03.53.00:463][433]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0008 seconds. Added 4 classes and 2 folders.
+[2019.12.12-03.53.00:469][433]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-03.53.00:587][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.12-03.53.00:607][433]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2868 classes and 684 folders.
+[2019.12.12-03.53.00:607][433]Display: HotReload took 27.0s.
+[2019.12.12-03.53.02:392][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.53.02:468][570]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.53.02:486][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Building_Escape.Building_Escape:PersistentLevel' has LevelScriptBlueprint '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape' with GeneratedClass '/Game/Building_Escape.Building_Escape_C' with ClassGeneratedBy '/Game/Building_Escape.Building_Escape:PersistentLevel.Building_Escape'
+[2019.12.12-03.53.02:487][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.53.02:487][570]PIE: New page: PIE session: Building_Escape (13/12/2019 5:53:02 am)
+[2019.12.12-03.53.02:487][570]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Building_Escape
+[2019.12.12-03.53.02:512][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024979s)
+[2019.12.12-03.53.02:513][570]LogAIModule: Creating AISystem for world Building_Escape
+[2019.12.12-03.53.02:513][570]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2019.12.12-03.53.02:513][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Building_Escape.Building_Escape to /Game/UEDPIE_0_Building_Escape.Building_Escape (0.026564s)
+[2019.12.12-03.53.02:607][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.12.12-03.53.02:633][570]LogInit: XAudio2 using 'ASUS XG32V (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-03.53.02:649][570]LogInit: FAudioDevice initialized.
+[2019.12.12-03.53.02:659][570]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.12-03.53.02:660][570]LogWorld: Bringing World /Game/UEDPIE_0_Building_Escape.Building_Escape up for play (max tick rate 0) at 2019.12.12-16.53.02
+[2019.12.12-03.53.02:661][570]LogWorld: Bringing up level for play took: 0.001181
+[2019.12.12-03.53.02:661][570]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.12-03.53.02:662][570]LogTemp: Warning: The Position of the SM_Door_5 is X=-255.000 Y=205.000 Z=30.000
+[2019.12.12-03.53.02:662][570]LogTemp: Warning: Grabber initiate
+[2019.12.12-03.53.02:663][570]LogTemp: Warning: DefaultPawn_BP_C_0 Physics handler found.
+[2019.12.12-03.53.06:930][570]LogWindows: Error: === Critical error: ===
+[2019.12.12-03.53.06:930][570]LogWindows: Error: 
+[2019.12.12-03.53.06:930][570]LogWindows: Error: Fatal error!
+[2019.12.12-03.53.06:930][570]LogWindows: Error: 
+[2019.12.12-03.53.06:930][570]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000148
+[2019.12.12-03.53.06:930][570]LogWindows: Error: 
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff941698295 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff90b02343b UE4Editor-BuildingEscape-1040.dll!UGrabber::Initialize() [D:\Unreal\repo\01_BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp:79]
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff941274c02 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff9412806b6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff9424e4710 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff941978d81 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff94249244e UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff94193ad29 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff91e4e50b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff91e504361 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff91e51e265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff91dfdd9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff91e835296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff69ac67b0a UE4Editor.exe!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff69ac7a91c UE4Editor.exe!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff69ac7a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff69ac8b92c UE4Editor.exe!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff69ac8e60e UE4Editor.exe!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff996f67974 KERNEL32.DLL!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: [Callstack] 0x00007ff99984a271 ntdll.dll!UnknownFunction []
+[2019.12.12-03.53.06:930][570]LogWindows: Error: 
+[2019.12.12-03.53.06:992][570]LogExit: Executing StaticShutdownAfterError
+[2019.12.12-03.53.06:996][570]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.12.12-03.53.07:009][570]Log file closed, 12/12/19 16:53:07

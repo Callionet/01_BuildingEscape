@@ -23,9 +23,8 @@ UGrabber::UGrabber()
 void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
-	UE_LOG(LogTemp, Warning, TEXT("Grabber initiate"));
-	// ...
-	
+	Initialize();
+	GrabControl();
 }
 
 
@@ -34,11 +33,15 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
+	RayCasting();
+}
+
+void UGrabber::RayCasting() {
 	//get viewpoint
 	FVector PlayerViewPointLocation;
 	FRotator PlayerViewPointRotation;
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(
-		OUT PlayerViewPointLocation, 
+		OUT PlayerViewPointLocation,
 		OUT PlayerViewPointRotation);
 
 
@@ -50,7 +53,54 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	//draw red trace
 	FVector  LineTraceEnd = PlayerViewPointLocation + PlayerViewPointRotation.Vector() * Reach;
 	DrawDebugLine(GetWorld(), PlayerViewPointLocation, LineTraceEnd, FColor(255, 0, 0), false, 0.f, 0.f, 5.f);
+
+	//setup query parameter
+	FCollisionQueryParams TraceParameter(FName(TEXT("Nothing")), false, GetOwner());
 	//raycasting
-	//check hit
+	FHitResult HitItem;
+
+	if (GetWorld()->LineTraceSingleByObjectType(
+		OUT HitItem,
+		PlayerViewPointLocation,
+		LineTraceEnd,
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+		TraceParameter)) {
+
+		UE_LOG(LogTemp, Warning, TEXT("Hit item: %s"), *HitItem.GetActor()->GetName());
+	}
 }
 
+void UGrabber::Initialize() {
+	UE_LOG(LogTemp, Warning, TEXT("Grabber initiate"));
+
+	PhysicHandler = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
+	if (!PhysicHandler) {
+		UE_LOG(LogTemp, Error, TEXT("%s Physics handler not found."), *GetOwner()->GetName());
+	}
+	else {
+		UE_LOG(LogTemp, Warning, TEXT("%s Physics handler found."), *GetOwner()->GetName());
+	}
+
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
+	if (!InputComponent) {
+		UE_LOG(LogTemp, Error, TEXT("%s InputComponent not found."), *GetOwner()->GetName());
+	}
+	else {
+		UE_LOG(LogTemp, Warning, TEXT("%s InputComponent found."), *GetOwner()->GetName());
+	}
+}
+
+void UGrabber::GrabControl() {
+	if (InputComponent) {
+		InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
+		InputComponent->BindAction("Grab", IE_Released, this, &UGrabber::Release);
+	}
+}
+
+void UGrabber::Release() {
+	UE_LOG(LogTemp, Warning, TEXT("Release"));
+}
+
+void UGrabber::Grab(){
+	UE_LOG(LogTemp, Warning, TEXT("Grab"));
+}

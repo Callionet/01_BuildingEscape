@@ -4,6 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "PhysicsEngine/PhysicsHandleComponent.h"
+#include "GameFramework/PawnMovementComponent.h"
+#include "Components/InputComponent.h"
 #include "Grabber.generated.h"
 
 
@@ -24,6 +27,16 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	void Initialize();
+
+	void GrabControl();
+
+	void Grab();
+
+	void Release();
+
+	void RayCasting();
+
 private:
 	UPROPERTY(EditAnywhere)
 	float Delay = 1.f;
@@ -31,6 +44,9 @@ private:
 	UPROPERTY(EditAnywhere)
 	float Reach = 100.f;
 
-	float TimeCount = 0.f;
+	UPhysicsHandleComponent* PhysicHandler = nullptr;
 
+	UInputComponent* InputComponent = nullptr;
+
+	float TimeCount = 0.f;
 };
