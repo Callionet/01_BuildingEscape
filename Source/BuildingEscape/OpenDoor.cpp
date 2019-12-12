@@ -48,7 +48,8 @@ void UOpenDoor::RotateDoor() {
 
 void UOpenDoor::OpenDoor() {
 	//UE_LOG(LogTemp, Warning, TEXT("The rotaion of actor %s is %s"), *Owner->GetName(), *Rotation.ToString());
-	Owner->SetActorRotation(FRotator(0.f, OpenAngle, 0.f));
+	//Owner->SetActorRotation(FRotator(0.f, OpenAngle, 0.f));
+	OnOpenRequest.Broadcast();
 }
 
 void UOpenDoor::CloseDoor() {
